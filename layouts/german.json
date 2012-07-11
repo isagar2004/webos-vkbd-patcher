@@ -1,0 +1,702 @@
+{
+    "layouts": {
+        "QWERTZ": {
+            "0": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0012"},
+                    "SEC": {"TYPE": "S", "CHAR": "0013"},
+                    "EXT": ""
+                },
+                "1": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "1"},
+                    "SEC": {"TYPE": "C", "CHAR": "!"},
+                    "EXT": "SET34"
+                },
+                "2": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "2"},
+                    "SEC": {"TYPE": "C", "CHAR": "\""},
+                    "EXT": "SET35"
+                },
+                "3": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "3"},
+                    "SEC": {"TYPE": "C", "CHAR": "@"},
+                    "EXT": "SET36"
+                },
+                "4": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "4"},
+                    "SEC": {"TYPE": "C", "CHAR": "$"},
+                    "EXT": "SET37"
+                },
+                "5": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "5"},
+                    "SEC": {"TYPE": "C", "CHAR": "%"},
+                    "EXT": "SET38"
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "6"},
+                    "SEC": {"TYPE": "C", "CHAR": "&"},
+                    "EXT": "SET39"
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "7"},
+                    "SEC": {"TYPE": "C", "CHAR": "/"},
+                    "EXT": "SET40"
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "8"},
+                    "SEC": {"TYPE": "C", "CHAR": "("},
+                    "EXT": "SET41"
+                },
+                "9": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "9"},
+                    "SEC": {"TYPE": "C", "CHAR": ")"},
+                    "EXT": "SET42"
+                },
+                "10": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "0"},
+                    "SEC": {"TYPE": "C", "CHAR": "="},
+                    "EXT": "SET43"
+                },
+                "11": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0014"},
+                    "SEC": {"TYPE": "S", "CHAR": "0015"},
+                    "EXT": ""
+                }
+            },
+            "1": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "Q"},
+                    "SEC": {"TYPE": "C", "CHAR": "`"},
+                    "EXT": ""
+                },
+                "1": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "W"},
+                    "SEC": {"TYPE": "C", "CHAR": "~"},
+                    "EXT": ""
+                },
+                "2": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "E"},
+                    "SEC": {"TYPE": "C", "CHAR": "€"},
+                    "EXT": "SET10"
+                },
+                "3": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "R"},
+                    "SEC": {"TYPE": "C", "CHAR": "^"},
+                    "EXT": "SET11"
+                },
+                "4": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "T"},
+                    "SEC": {"TYPE": "C", "CHAR": "®"},
+                    "EXT": "SET12"
+                },
+                "5": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "Z"},
+                    "SEC": {"TYPE": "C", "CHAR": "\\"},
+                    "EXT": "SET23"
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "U"},
+                    "SEC": {"TYPE": "C", "CHAR": "|"},
+                    "EXT": "SET14"
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "I"},
+                    "SEC": {"TYPE": "C", "CHAR": "{"},
+                    "EXT": "SET15"
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "O"},
+                    "SEC": {"TYPE": "C", "CHAR": "}"},
+                    "EXT": "SET16"
+                },
+                "9": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "P"},
+                    "SEC": {"TYPE": "C", "CHAR": "["},
+                    "EXT": "SET17"
+                },
+                "10": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "Ü"},
+                    "SEC": {"TYPE": "C", "CHAR": "]"},
+                    "EXT": ""
+                },
+                "11": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0003"},
+                    "SEC": {"TYPE": "S", "CHAR": "0003"},
+                    "EXT": ""
+                }
+            },
+            "2": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "A"},
+                    "SEC": {"TYPE": "C", "CHAR": "<"},
+                    "EXT": "SET18"
+                },
+                "1": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "S"},
+                    "SEC": {"TYPE": "C", "CHAR": ">"},
+                    "EXT": "SET19"
+                },
+                "2": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "D"},
+                    "SEC": {"TYPE": "C", "CHAR": "_"},
+                    "EXT": "SET20"
+                },
+                "3": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "F"},
+                    "SEC": {"TYPE": "C", "CHAR": "+"},
+                    "EXT": ""
+                },
+                "4": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "G"},
+                    "SEC": {"TYPE": "C", "CHAR": "×"},
+                    "EXT": "SET21"
+                },
+                "5": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "H"},
+                    "SEC": {"TYPE": "C", "CHAR": "÷"},
+                    "EXT": ""
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "J"},
+                    "SEC": {"TYPE": "C", "CHAR": "°"},
+                    "EXT": ""
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "K"},
+                    "SEC": {"TYPE": "C", "CHAR": "±"},
+                    "EXT": ""
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "L"},
+                    "SEC": {"TYPE": "C", "CHAR": "©"},
+                    "EXT": "SET22"
+                },
+                "9": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "Ö"},
+                    "SEC": {"TYPE": "C", "CHAR": "*"},
+                    "EXT": ""
+                },
+                "10": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "Ä"},
+                    "SEC": {"TYPE": "C", "CHAR": "#"},
+                    "EXT": ""
+                },
+                "11": {
+                    "WIDTH": "long",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0004"},
+                    "SEC": {"TYPE": "S", "CHAR": "0004"},
+                    "EXT": ""
+                }
+            },
+            "3": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0020"},
+                    "SEC": {"TYPE": "S", "CHAR": "0020"},
+                    "EXT": ""
+                },
+                "1": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "Y"},
+                    "SEC": {"TYPE": "V", "CHAR": "030E"},
+                    "EXT": "SET13"
+                },
+                "2": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "X"},
+                    "SEC": {"TYPE": "V", "CHAR": "030F"},
+                    "EXT": ""
+                },
+                "3": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "C"},
+                    "SEC": {"TYPE": "V", "CHAR": "030C"},
+                    "EXT": "SET24"
+                },
+                "4": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "V"},
+                    "SEC": {"TYPE": "V", "CHAR": "030D"},
+                    "EXT": ""
+                },
+                "5": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "B"},
+                    "SEC": {"TYPE": "V", "CHAR": "0310"},
+                    "EXT": ""
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "N"},
+                    "SEC": {"TYPE": "V", "CHAR": "0311"},
+                    "EXT": "SET25"
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "M"},
+                    "SEC": {"TYPE": "V", "CHAR": "0312"},
+                    "EXT": "SET26"
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": ","},
+                    "SEC": {"TYPE": "C", "CHAR": ";"},
+                    "EXT": "SET44"
+                },
+                "9": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "."},
+                    "SEC": {"TYPE": "C", "CHAR": ":"},
+                    "EXT": "SET45"
+                },
+                "10": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0020"},
+                    "SEC": {"TYPE": "S", "CHAR": "0020"},
+                    "EXT": ""
+                },
+                "11": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                }
+            },
+            "4": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0001"},
+                    "SEC": {"TYPE": "S", "CHAR": "0001"},
+                    "EXT": ""
+                },
+                "1": {
+                    "WIDTH": "none",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "S", "CHAR": "0023"},
+                    "SEC": {"TYPE": "S", "CHAR": "0023"},
+                    "EXT": ""
+                },
+                "2": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "3": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "4": {
+                    "WIDTH": "spacebar",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "C", "CHAR": " "},
+                    "SEC": {"TYPE": "C", "CHAR": " "},
+                    "EXT": ""
+                },
+                "5": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "ß"},
+                    "SEC": {"TYPE": "C", "CHAR": "?"},
+                    "EXT": "SET46"
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "-"},
+                    "SEC": {"TYPE": "C", "CHAR": "'"},
+                    "EXT": "SET47"
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "V", "CHAR": "020F"},
+                    "SEC": {"TYPE": "V", "CHAR": "020F"},
+                    "EXT": "SET31"
+                },
+                "9": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "10": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "11": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                }
+            },
+            "5": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0001"},
+                    "SEC": {"TYPE": "S", "CHAR": "0001"},
+                    "EXT": ""
+                },
+                "1": {
+                    "WIDTH": "none",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "S", "CHAR": "0023"},
+                    "SEC": {"TYPE": "S", "CHAR": "0023"},
+                    "EXT": ""
+                },
+                "2": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "3": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "4": {
+                    "WIDTH": "spacebar",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "C", "CHAR": " "},
+                    "SEC": {"TYPE": "C", "CHAR": " "},
+                    "EXT": ""
+                },
+                "5": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "ß"},
+                    "SEC": {"TYPE": "C", "CHAR": "?"},
+                    "EXT": "SET46"
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "-"},
+                    "SEC": {"TYPE": "C", "CHAR": "'"},
+                    "EXT": "SET47"
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "V", "CHAR": "020F"},
+                    "SEC": {"TYPE": "V", "CHAR": "020F"},
+                    "EXT": "SET31"
+                },
+                "9": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "10": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "11": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                }
+            },
+            "6": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0001"},
+                    "SEC": {"TYPE": "S", "CHAR": "0001"},
+                    "EXT": ""
+                },
+                "1": {
+                    "WIDTH": "none",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "S", "CHAR": "0023"},
+                    "SEC": {"TYPE": "S", "CHAR": "0023"},
+                    "EXT": ""
+                },
+                "2": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "3": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "/"},
+                    "SEC": {"TYPE": "C", "CHAR": "/"},
+                    "EXT": ""
+                },
+                "4": {
+                    "WIDTH": "short",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "C", "CHAR": " "},
+                    "SEC": {"TYPE": "C", "CHAR": " "},
+                    "EXT": ""
+                },
+                "5": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "V", "CHAR": "0300"},
+                    "SEC": {"TYPE": "V", "CHAR": "0300"},
+                    "EXT": "SET48"
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "ß"},
+                    "SEC": {"TYPE": "C", "CHAR": "?"},
+                    "EXT": "SET46"
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "-"},
+                    "SEC": {"TYPE": "C", "CHAR": "'"},
+                    "EXT": "SET47"
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "V", "CHAR": "020F"},
+                    "SEC": {"TYPE": "V", "CHAR": "020F"},
+                    "EXT": "SET31"
+                },
+                "9": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "10": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "11": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                }
+            },
+            "7": {
+                "0": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "S", "CHAR": "0001"},
+                    "SEC": {"TYPE": "S", "CHAR": "0001"},
+                    "EXT": ""
+                },
+                "1": {
+                    "WIDTH": "none",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "S", "CHAR": "0023"},
+                    "SEC": {"TYPE": "S", "CHAR": "0023"},
+                    "EXT": ""
+                },
+                "2": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "3": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "@"},
+                    "SEC": {"TYPE": "C", "CHAR": "@"},
+                    "EXT": ""
+                },
+                "4": {
+                    "WIDTH": "short",
+                    "CLASS": "spacebar",
+                    "MAIN": {"TYPE": "C", "CHAR": " "},
+                    "SEC": {"TYPE": "C", "CHAR": " "},
+                    "EXT": ""
+                },
+                "5": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "V", "CHAR": "0300"},
+                    "SEC": {"TYPE": "V", "CHAR": "0300"},
+                    "EXT": "SET48"
+                },
+                "6": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "ß"},
+                    "SEC": {"TYPE": "C", "CHAR": "?"},
+                    "EXT": "SET46"
+                },
+                "7": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "C", "CHAR": "-"},
+                    "SEC": {"TYPE": "C", "CHAR": "'"},
+                    "EXT": "SET47"
+                },
+                "8": {
+                    "WIDTH": "normal",
+                    "CLASS": "normal",
+                    "MAIN": {"TYPE": "V", "CHAR": "020F"},
+                    "SEC": {"TYPE": "V", "CHAR": "020F"},
+                    "EXT": "SET31"
+                },
+                "9": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "10": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                },
+                "11": {
+                    "WIDTH": "none",
+                    "CLASS": "none",
+                    "MAIN": {"TYPE": "C", "CHAR": ""},
+                    "SEC": {"TYPE": "C", "CHAR": ""},
+                    "EXT": ""
+                }
+            }
+        }
+    },
+    "sets": {
+    },
+    "params": {
+        "REGIONPATCH": "1",
+        "LANGCODE": {
+            "0": ""
+        }
+    },
+}
